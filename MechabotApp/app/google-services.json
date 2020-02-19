@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "213208805304",
+    "firebase_url": "https://mechabotapp.firebaseio.com",
+    "project_id": "mechabotapp",
+    "storage_bucket": "mechabotapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213208805304:android:a0deace97d9b5bba3d694d",
+        "android_client_info": {
+          "package_name": "app.fyp.mechabot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213208805304-f32k5ap5e6or7qj65re62s74c3mfkheb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.fyp.mechabot",
+            "certificate_hash": "7f11c94b554eab2cdf8cf003d819d838ed25a642"
+          }
+        },
+        {
+          "client_id": "213208805304-fovgejdpe84v40n1gurn50sd43rq5ml8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbeotoGZbVQDLa7WS0PvaAK5eDj6g5ZyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213208805304-fovgejdpe84v40n1gurn50sd43rq5ml8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
